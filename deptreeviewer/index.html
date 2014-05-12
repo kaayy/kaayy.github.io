@@ -7,12 +7,7 @@
     <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
     <style>
       textarea{width:100%;}
-      span{white-space: nowrap;}
       button{white-space: nowrap;}
-      .center {
-        margin: 0 auto !important;
-        float: none !important;
-      }
     </style>
     <script src="../google_analytics.js" type="text/javascript"></script>
     <script src="http://code.jquery.com/jquery.js"></script>
@@ -31,46 +26,46 @@
     </script>
   </head>
   <body onload="set_radio_button()">
-    <div class="row-fluid">
-      <div class="span12">
-      <div class="span10 center">
+    <div class="container">
+    <div class="row">
+      <div class="col-md-10 text-center">
         <h1> Dependency Tree Viewer</h1>
         <hr/>
         <textarea id="input" rows="10" cols="80"></textarea>
       </div><br/>
-      <div class="span10 center">
-        <div class="span8">
-          <label class="radio inline">
+      <div class="col-md-10" style="margin-top:15px">
+        <div class="col-md-8">
+          <label class="radio-inline">
             <input type="radio" name="deptype" id="deptype_parentheses" value="parentheses" checked onchange="set_radio_button()"> Nested Parentheses
           </label>
-          <label class="radio inline">
+          <label class="radio-inline">
             <input type="radio" name="deptype" id="deptype_conll" value="conll" onchange="set_radio_button()"> CONLL-X
           </label>
-          <label class="radio inline">
+          <label class="radio-inline">
             <input type="radio" name="deptype" id="deptype_stanford" value="stanford" disabled="disabled"><font color="grey">Stanford</font>
           </label>
         </div>
-        <div class="span1 offset2">
+        <div class="col-md-1 col-md-offset-2">
           <button class="btn btn-large btn-primary" type="button" onclick="generatetree()" id="drawbutton">Draw It!</button>
         </div>
       </div>
       <br/>
-      <div class="span10 center"><hr/></div>
-      <div class="span10 center" id="showarea">
-        <div class="alert alert-error" id='alert' hidden><b>OOPS</b>, something is wrong...</div>
+      <div class="col-md-10"><hr/></div>
+      <div class="col-md-10" id="showarea">
+        <div class="alert alert-error" id='alert' hidden><b>OOPS...</b>, something is wrong...</div>
         <canvas style="border:1px solid blue" id="canvas" width="0" height="0"></canvas><br /> 
         <div id="spanbox" style="float:left; position:relative; top:-50px; left:+10px"></div>
       </div>
-      <div class="span10 center">
+      <div class="col-md-10">
         <hr>
-        <p align=right> &copy; <a href="http://acl.cs.qc.edu/~kzhao">Kai Zhao</a> |
+        <p align=right> &copy; <a href="http://kaizhao.me">Kai Zhao</a> |
           <script type="text/javascript">
             var t = new Date(document.lastModified);
             var m = "Last Update: " + t.toDateString();
             document.write(m);
           </script>
         </p>
-      </div></div>
-    </div>
+      </div>
+    </div></div>
   </body>
 </html>
