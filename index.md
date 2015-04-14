@@ -5,7 +5,7 @@ title: Kai Zhao - Homepage
 
 #### Biography
 
-I am a Ph.D. student at [Computer Science Department](http://cs.gc.cuny.edu/), [Graduate Center](http://www.gc.cuny.edu/), [City University of New York](http://www.cuny.edu/index.html) (CUNY). [[Curriculum Vitae]("cv.pdf")]
+I am a Ph.D. student at [Computer Science Department](http://cs.gc.cuny.edu/), [Graduate Center](http://www.gc.cuny.edu/), [City University of New York](http://www.cuny.edu/index.html) (CUNY). [[Curriculum Vitae](cv.pdf)]
 
 Now I work with [Prof. Liang Huang](http://acl.cs.qc.edu/~lhuang/) in [Algorithms for Computational Linguistics](http://acl.cs.qc.edu/) (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **parsing** and **machine translation**. I am also very interested in Machine Learning like **online learning** and **large margin methods**.
 
