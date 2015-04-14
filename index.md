@@ -21,7 +21,7 @@ Prior to CUNY, I received my Bachelor of Engineering (B.Eng.) degree from [Compu
 
 #### Publications
 
-My publications list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
+My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
 
 * Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://kaizhao.me/publications/contrepr-mt.pdf). To appear in _Proceedings of NAACL 2015_.
 
