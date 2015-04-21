@@ -131,8 +131,10 @@ function drawArrow(ctx,fromelem,toelem,    //mandatory
                      above, angle) {        //optional
   (above==undefined) && (above = true);
   (angle==undefined) && (angle = 45); //degrees 
-  midfrom = fromelem.offsetLeft + (fromelem.offsetWidth / 2) - left - tofromseparation/2; 
-  midto   =   toelem.offsetLeft + (  toelem.offsetWidth / 2) - left + tofromseparation/2;
+  midfrom = fromelem.offsetLeft + (fromelem.offsetWidth / 2) - left; 
+  midto   =   toelem.offsetLeft + (  toelem.offsetWidth / 2) - left;
+  if (midto > midfrom) midfrom += tofromseparation/2;
+  else midfrom -= tofromseparation/2;
   //var y = above ? (fromelem.offsetTop - top) : (fromelem.offsetTop + fromelem.offsetHeight - top);
   var y = fromelem.offsetTop + (above ? 0 : fromelem.offsetHeight) - canvasTop;
   drawHorizArcArrow(ctx, midfrom, midto, y, angle, above);
