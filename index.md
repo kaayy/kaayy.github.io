@@ -25,9 +25,9 @@ Prior to CUNY, I received my Bachelor of Engineering (B.Eng.) degree from [Compu
 
 My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
 
-* Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://kaizhao.me/publications/contrepr-mt.pdf). To appear in _Proceedings of NAACL 2015_.
+* Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://www.aclweb.org/anthology/N/N15/N15-1176.pdf). In _Proceedings of NAACL 2015_.
 
-* Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://kaizhao.me/publications/tisp.pdf). To appear in _Proceedings of NAACL 2015_ (short paper).
+* Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper).
 
 * Kai Zhao, Liang Huang, Haitao Mi, and Abe Ittycheriah. [Hierarchical MT Training using Max-Violation Perceptron](http://www.aclweb.org/anthology/P/P14/P14-2127.pdf). In _Proceedings of ACL 2014_ (short paper).
 
