@@ -9,7 +9,7 @@ I am a Ph.D. student at [Computer Science Department](http://cs.gc.cuny.edu/), [
 
 Now I work with [Prof. Liang Huang](http://acl.cs.qc.edu/~lhuang/) in [Algorithms for Computational Linguistics](http://acl.cs.qc.edu/) (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **parsing** and **machine translation**. I am also very interested in Machine Learning like **online learning** and **large margin methods**.
 
-I have been very fortunate to spend two summers working on machine translation at [Microsoft Research](http://research.microsoft.com/en-us/) with [Hany Hassan](http://research.microsoft.com/en-us/people/hanyh/) and [Michael Auli](http://michaelauli.github.io/) (in 2014), and at [IBM T.J. Watson Research Center](http://www.research.ibm.com/labs/watson/) with [Abe Ittycheriah](https://www.linkedin.com/pub/abe-ittycheriah/1/142/466) and [Haitao Mi](http://researcher.watson.ibm.com/researcher/view.php?person=us-hmi) (in 2013). 
+I have been very fortunate to spend two summers working on machine translation at [Microsoft Research](http://research.microsoft.com/en-us/) with [Hany Hassan](http://research.microsoft.com/en-us/people/hanyh/) and [Michael Auli](http://michaelauli.github.io/) (in 2014), and at [IBM T.J. Watson Research Center](http://www.research.ibm.com/labs/watson/) with [Abe Ittycheriah](https://www.linkedin.com/pub/abe-ittycheriah/1/142/466) and [Haitao Mi](http://researcher.watson.ibm.com/researcher/view.php?person=us-hmi) (in 2013).
 
 Prior to CUNY, I received my Bachelor of Engineering (B.Eng.) degree from [Computer Science Department](http://cs.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) (USTC) in 2010.
 
@@ -17,7 +17,7 @@ Prior to CUNY, I received my Bachelor of Engineering (B.Eng.) degree from [Compu
 
 <div class="alert alert-info">
               <p>Our tutorial on <b>Structured Prediction with Perceptron</b> was originally presented in <b>ACL 2014</b> (<a href="http://acl.cs.qc.edu/~lhuang/slides/perc-tutorial.pdf">slides</a>).  
-              It will also be presented in <b>MASC-SLL 2015</b> (<a href="files/perc-tutorial-masc.pdf">revised slides</a>). </p> 
+              It will also be presented in <b>MASC-SLL 2015</b> (<a href="files/perc-tutorial-masc.pdf">revised slides</a>). </p>
 </div>
 
 
