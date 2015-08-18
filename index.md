@@ -25,6 +25,8 @@ Prior to CUNY, I received my Bachelor of Engineering (B.Eng.) degree from [Compu
 
 My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
 
+* Feifei Zhai, Liang Huang, and Kai Zhao. Search-aware Tuning for Hierarchical Phrase-based Decoding. To appear in _Proceedings of EMNLP 2015_.
+
 * Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://www.aclweb.org/anthology/N/N15/N15-1176.pdf). In _Proceedings of NAACL 2015_.
 
 * Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper).
