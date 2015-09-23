@@ -5,17 +5,17 @@ title: Kai Zhao - Homepage
 
 #### Biography
 
-I am a Ph.D. student at [Computer Science Department](http://cs.gc.cuny.edu/), [Graduate Center](http://www.gc.cuny.edu/), [City University of New York](http://www.cuny.edu/index.html) (CUNY). [[Curriculum Vitae](cv.pdf)]
+I am a Ph.D. student at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](cv.pdf)]
 
-Now I work with [Prof. Liang Huang](http://acl.cs.qc.edu/~lhuang/) in [Algorithms for Computational Linguistics](http://acl.cs.qc.edu/) (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **parsing** and **machine translation**. I am also very interested in Machine Learning like **online learning** and **large margin methods**.
+Now I work with [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) in [Algorithms for Computational Linguistics](#) (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **parsing** and **machine translation**. I am also very interested in Machine Learning like **online learning** and **large margin methods**.
 
-I have been very fortunate to spend my summers working on information extraction from structure data at [Google Research](https://research.google.com/) with [Hao Zhang](http://research.google.com/pubs/HaoZhang.html) (in 2015), and on machine translation at [Microsoft Research](http://research.microsoft.com/en-us/) with [Hany Hassan](http://research.microsoft.com/en-us/people/hanyh/) and [Michael Auli](http://michaelauli.github.io/) (in 2014), and at [IBM T.J. Watson Research Center](http://www.research.ibm.com/labs/watson/) with [Abe Ittycheriah](https://www.linkedin.com/pub/abe-ittycheriah/1/142/466) and [Haitao Mi](http://researcher.watson.ibm.com/researcher/view.php?person=us-hmi) (in 2013).
+I have been very fortunate to work with [Hao Zhang](http://research.google.com/pubs/HaoZhang.html) at [Google Research](https://research.google.com/) on data mining from structured data in the summer of 2015, with [Hany Hassan](http://research.microsoft.com/en-us/people/hanyh/) and [Michael Auli](http://michaelauli.github.io/) at [Microsoft Research](http://research.microsoft.com/en-us/) in the summer of 2014, and with [Abe Ittycheriah](https://www.linkedin.com/pub/abe-ittycheriah/1/142/466) and [Haitao Mi](http://researcher.watson.ibm.com/researcher/view.php?person=us-hmi) at [IBM T.J. Watson Research Center](http://www.research.ibm.com/labs/watson/) in the summer of 2013 on machine translation.
 
-Prior to CUNY, I received my Bachelor of Engineering (B.Eng.) degree from [Computer Science Department](http://cs.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) (USTC) in 2010.
+Prior to Oregon State University, I started my Ph.D. study at [Computer Science Department](http://cs.gc.cuny.edu/), [Graduate Center](http://www.gc.cuny.edu/), [City University of New York](http://www.cuny.edu/index.html) (CUNY). I received my Bachelor of Engineering (B.Eng.) degree from [Computer Science Department](http://cs.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) (USTC) in 2010.
 
 <br />
 
-<div class="alert alert-info">
+<div class="well">
               <p>Our tutorial on <b>Structured Prediction with Perceptron</b> was originally presented in <b>ACL 2014</b> (<a href="http://acl.cs.qc.edu/~lhuang/slides/perc-tutorial.pdf">slides</a>).  
               It will also be presented in <b>MASC-SLL 2015</b> (<a href="files/perc-tutorial-masc.pdf">revised slides</a>). </p>
 </div>
@@ -49,9 +49,9 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 Teaching Assistant
 
-* [Programming Languages](http://acl.cs.qc.edu/~lhuang/teaching/PL/), Graduate Center, CUNY, Fall 2013
-* [Machine Learning](http://acl.cs.qc.edu/~lhuang/teaching/machine-learning/), Graduate Center, CUNY, Spring 2013
-* [Python Programming and Text Processing](http://acl.cs.qc.edu/~lhuang/teaching/python-2012f/), Queens College, CUNY, Fall 2012
+* [Programming Languages](#), Graduate Center, CUNY, Fall 2013
+* [Machine Learning](#), Graduate Center, CUNY, Spring 2013
+* [Python Programming and Text Processing](#), Queens College, CUNY, Fall 2012
 
 <br />
 
