@@ -49,7 +49,7 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 Teaching Assistant
 
-* [Intro to Theory of Computation](http://classes.engr.oregonstate.edu/eecs/fall2015/cs321/), Oregon State University, Fall 2015
+* [Theory of Computation](http://classes.engr.oregonstate.edu/eecs/fall2015/cs321/), Oregon State University, Fall 2015
 * [Programming Languages](#), Graduate Center, CUNY, Fall 2013
 * [Machine Learning](#), Graduate Center, CUNY, Spring 2013
 * [Python Programming and Text Processing](#), Queens College, CUNY, Fall 2012
