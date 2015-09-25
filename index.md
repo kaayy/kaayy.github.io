@@ -15,11 +15,6 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 
 <br />
 
-<div class="well">
-              <p>Our tutorial on <b>Structured Prediction with Perceptron</b> was originally presented in <b>ACL 2014</b> (<a href="http://acl.cs.qc.edu/~lhuang/slides/perc-tutorial.pdf">slides</a>).  
-              It will also be presented in <b>MASC-SLL 2015</b> (<a href="files/perc-tutorial-masc.pdf">revised slides</a>). </p>
-</div>
-
 
 #### Publications
 
@@ -43,6 +38,8 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 * Kai Zhao and Liang Huang. [Minibatch and Parallelization for Online Large Margin Structured Learning](http://www.aclweb.org/anthology/N/N13/N13-1038.pdf). In _Proceedings of NAACL 2013_.
 
+
+We have a tutorial on [Structured Prediction with Perceptron](http://www.anthology.aclweb.org/P/P14/P14-6.pdf#page=14) presented in _ACL 2014_ ([slides](http://acl.cs.qc.edu/~lhuang/slides/perc-tutorial.pdf)), and _MASC-SLL 2015_ ([revised slides](files/perc-tutorial-masc.pdf)). 
 <br />
 
 #### Teaching
