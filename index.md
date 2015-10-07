@@ -40,6 +40,7 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 
 We have a tutorial on [Structured Prediction with Perceptron](http://www.anthology.aclweb.org/P/P14/P14-6.pdf#page=14) presented in _ACL 2014_ ([slides](http://acl.cs.qc.edu/~lhuang/slides/perc-tutorial.pdf)), and _MASC-SLL 2015_ ([revised slides](files/perc-tutorial-masc.pdf)). 
+
 <br />
 
 #### Teaching
