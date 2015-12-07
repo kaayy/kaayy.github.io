@@ -39,7 +39,7 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 * Kai Zhao and Liang Huang. [Minibatch and Parallelization for Online Large Margin Structured Learning](http://www.aclweb.org/anthology/N/N13/N13-1038.pdf). In _Proceedings of NAACL 2013_.
 
 
-We have a tutorial on [Structured Prediction with Perceptron](http://www.anthology.aclweb.org/P/P14/P14-6.pdf#page=14) presented in _ACL 2014_ ([slides](http://acl.cs.qc.edu/~lhuang/slides/perc-tutorial.pdf)), and _MASC-SLL 2015_ ([revised slides](files/perc-tutorial-masc.pdf)). 
+We have a tutorial on [Structured Prediction with Perceptron](http://www.anthology.aclweb.org/P/P14/P14-6.pdf#page=14) presented in _ACL 2014_ ([slides](http://web.engr.oregonstate.edu/~huanlian/slides/perc-tutorial.pdf)), and _MASC-SLL 2015_ ([revised slides](files/perc-tutorial-masc.pdf)). 
 
 <br />
 
@@ -48,9 +48,9 @@ We have a tutorial on [Structured Prediction with Perceptron](http://www.antholo
 Teaching Assistant
 
 * [Theory of Computation](http://classes.engr.oregonstate.edu/eecs/fall2015/cs321/), Oregon State University, Fall 2015
-* [Programming Languages](#), Graduate Center, CUNY, Fall 2013
-* [Machine Learning](#), Graduate Center, CUNY, Spring 2013
-* [Python Programming and Text Processing](#), Queens College, CUNY, Fall 2012
+* [Programming Languages](http://web.engr.oregonstate.edu/~huanlian/teaching/PL/2013fall/), Graduate Center, CUNY, Fall 2013
+* [Machine Learning](http://web.engr.oregonstate.edu/~huanlian/teaching/machine-learning/), Graduate Center, CUNY, Spring 2013
+* [Python Programming and Text Processing](http://web.engr.oregonstate.edu/~huanlian/teaching/python-2012f/), Queens College, CUNY, Fall 2012
 
 <br />
 
