@@ -47,6 +47,7 @@ We have a tutorial on [Structured Prediction with Perceptron](http://www.antholo
 
 Teaching Assistant
 
+* [Translators (Compilers and Interpreters)](http://classes.engr.oregonstate.edu/eecs/winter2016/cs480/), Oregon State University, Winter 2016
 * [Theory of Computation](http://classes.engr.oregonstate.edu/eecs/fall2015/cs321/), Oregon State University, Fall 2015
 * [Programming Languages](http://web.engr.oregonstate.edu/~huanlian/teaching/PL/2013fall/), Graduate Center, CUNY, Fall 2013
 * [Machine Learning](http://web.engr.oregonstate.edu/~huanlian/teaching/machine-learning/), Graduate Center, CUNY, Spring 2013
