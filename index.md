@@ -5,7 +5,7 @@ title: Kai Zhao - Homepage
 
 #### Biography
 
-I am a Ph.D. student at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](cv.pdf)]
+I am a Ph.D. candidate at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](cv.pdf)]
 
 Now I work with [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) in Algorithms for Computational Linguistics (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **parsing** and **machine translation**. I am also very interested in Machine Learning like **online learning** and **large margin methods**.
 
