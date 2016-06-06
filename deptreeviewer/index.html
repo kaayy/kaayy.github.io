@@ -9,9 +9,17 @@
       textarea{width:100%;}
       button{white-space: nowrap;}
     </style>
-    <script src="../google_analytics.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-36736668-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
     <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
     <script src="drawarrow.js"></script>
     <script src="depvis.js"></script>
     <script language="javascript">
@@ -20,6 +28,8 @@
           $("#input").val('(((Ms./NNP) Haag/NNP) plays/VBZ (Elianti/NNP) (./.))');
         else if ($("#deptype_conll").prop("checked"))
           $("#input").val('1\tMs.\t_\tNNP\tNNP\t_\t2\t_\t_\t_\n2\tHaag\t_\tNNP\tNNP\t_\t3\t_\t_\t_\n3\tplays\t_\tVBZ\tVBZ\t_\t0\t_\t_\t_\n4\tElianti\t_\tNNP\tNNP\t_\t3\t_\t_\t_\n5\t.\t_\t.\t.\t_\t3\t_\t_\t_');
+        else if ($("#deptype_stanford").prop("checked"))
+          $("#input").val("compound(Haag-2, Ms./NNP-1)\nnsubj(plays-3, Haag/NNP-2)\nroot(ROOT-0, plays/VBZ-3)\ndobj(plays-3, Elianti/NNP-4)\npunct(plays-3, ./.-5)");
         $('#input').select();
         generatetree();
       }
@@ -42,7 +52,7 @@
             <input type="radio" name="deptype" id="deptype_conll" value="conll" onchange="set_radio_button()"> CONLL-X
           </label>
           <label class="radio-inline">
-            <input type="radio" name="deptype" id="deptype_stanford" value="stanford" disabled="disabled"><font color="grey">Stanford</font>
+            <input type="radio" name="deptype" id="deptype_stanford" value="stanford" onchange="set_radio_button()">Stanford
           </label>
         </div>
         <div class="col-md-1 col-md-offset-2">

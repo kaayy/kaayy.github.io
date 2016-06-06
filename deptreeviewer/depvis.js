@@ -3,6 +3,11 @@
  * Kai Zhao, July 2013
  *******************************/
 
+String.prototype.rsplit = function(sep, maxsplit) {
+    var split = this.split(sep);
+    return maxsplit ? [ split.slice(0, -maxsplit).join(sep) ].concat(split.slice(-maxsplit)) : split;
+}
+
 function generatetree(){
 	$("#alert").hide();
 	spanbox = $("#spanbox");
@@ -15,6 +20,8 @@ function generatetree(){
 		parse_parentheses(text, sent);
 	else if($("#deptype_conll").prop("checked"))
 		parse_conll(text, sent);
+	else if($("#deptype_stanford").prop("checked"))
+		parse_stanford(text, sent);
 	else
 		return;
 	if (sent.length == 0)
@@ -59,8 +66,8 @@ function generatetree(){
 }
 
 function parse_conll(text, sent){
-	lines = text.split("\n");
-	edges = new Array();
+	var lines = text.split("\n");
+	var edges = new Array();
 	for (var i=0; i<=lines.length;++i) edges.push(new Array());
 	for (var i=0;i<lines.length;++i){
 		line = lines[i].trim();
@@ -74,6 +81,28 @@ function parse_conll(text, sent){
 		if(items[4].trim()!="_")
 			modword += "/"+items[4].trim();
 		headidx = items[6].trim();
+		edges[headidx].push(modidx);
+		sent.push([modidx, modword, edges[modidx]]);
+	}
+}
+
+
+function parse_stanford(text, sent){
+	var lines = text.split("\n");
+	var edges = new Array();
+	for (var i=0; i<=lines.length; ++i) edges.push(new Array());
+	for (var i=0; i<lines.length; ++i){
+		var splits = lines[i].split("(", 2);
+		var label = splits[0];
+		var rest = splits[1];
+		splits = rest.split(")", 2);
+		rest = splits[0];
+		splits = rest.split(", ", 2);
+		var leftsplits = splits[0].rsplit("-", 1);
+		var headidx = leftsplits[1];
+		var rightsplits = splits[1].rsplit("-", 1);
+		var modword = rightsplits[0];
+		var modidx = parseInt(rightsplits[1]);
 		edges[headidx].push(modidx);
 		sent.push([modidx, modword, edges[modidx]]);
 	}
