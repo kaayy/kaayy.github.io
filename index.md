@@ -57,6 +57,6 @@ Teaching Assistant
 
 #### Codes for Fun
 
-* [Dependency Tree Viewer](deptreeviewer): a tool to visualize (unlabeled) dependency trees with JavaScript. It supports nested parentheses format, CONLL-X format, and Stanford format. (For syntax tree there is [a great viewer](http://mshang.ca/syntree/) from [Miles Shang](http://mshang.ca/).)
+* [Dependency Tree Viewer](deptreeviewer): a tool to visualize (unlabeled) dependency trees with JavaScript. It supports nested brackets format, CONLL-X format, and Stanford format. (For syntax tree there is [a great viewer](http://mshang.ca/syntree/) from [Miles Shang](http://mshang.ca/).)
 
 * [EverTeX](http://github.com/kaayy/everTex): I am not a heavy Evernote user, but its lack of LaTeX-style formula support is really annoying. So I wrote this Firefox greasemonkey plugin to help LaTeX formula input/display in Evernote website.
