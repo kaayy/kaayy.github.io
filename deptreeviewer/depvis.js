@@ -103,6 +103,8 @@ function parse_stanford(text, sent){
 		var rightsplits = splits[1].rsplit("-", 1);
 		var modword = rightsplits[0];
 		var modidx = parseInt(rightsplits[1]);
+		while (edges.length <= headidx || edges.length <= modidx)
+			edges.push(new Array());
 		edges[headidx].push(modidx);
 		sent.push([modidx, modword, edges[modidx]]);
 	}
