@@ -5,7 +5,7 @@ title: Kai Zhao - Homepage
 
 #### Biography
 
-I am a Ph.D. candidate at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](cv.pdf)]
+I am a Ph.D. candidate at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](kaizhao_cv.pdf)]
 
 Now I work with [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) in Algorithms for Computational Linguistics (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **parsing** and **machine translation**. I am also very interested in Machine Learning like **online learning** and **large margin methods**.
 
@@ -19,6 +19,8 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 #### Publications
 
 My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
+
+* Kai Zhao, Liang Huang, and Mingbo Ma. [Textual Entailment with Structured Attentions and Composition](#). To appear in _Proceedings of COLING 2016_.
 
 * Feifei Zhai, Liang Huang, and Kai Zhao. [Search-aware Tuning for Hierarchical Phrase-based Decoding](http://aclweb.org/anthology/D/D15/D15-1149.pdf). In _Proceedings of EMNLP 2015_.
 
