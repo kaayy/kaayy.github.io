@@ -22,7 +22,7 @@ title: Kai Zhao - Homepage
 
 I am a Ph.D. candidate at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](kaizhao_cv.pdf)]
 
-Now I work with [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) in Algorithms for Computational Linguistics (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **syntactic/semantic arsing** and **machine translation**. I am also very interested in Machine Learning like **online learning** and **deep learning**.
+Now I work with [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) in Algorithms for Computational Linguistics (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **syntactic/semantic arsing**, **machine translation**, and **textual entailment**. I am also very interested in Machine Learning like **online learning** and **deep learning**.
 
 I have been very fortunate to work with [Hao Zhang](http://research.google.com/pubs/HaoZhang.html), [Cong Yu](https://sites.google.com/site/congyu/home), and [Flip Korn](https://www.linkedin.com/in/flip-korn-a35159) at [Google Research](https://research.google.com/) on data mining from structured data in the summer of 2015, with [Hany Hassan](http://research.microsoft.com/en-us/people/hanyh/) and [Michael Auli](http://michaelauli.github.io/) at [Microsoft Research](http://research.microsoft.com/en-us/) in the summer of 2014, and with [Abe Ittycheriah](https://www.linkedin.com/pub/abe-ittycheriah/1/142/466) and [Haitao Mi](http://researcher.watson.ibm.com/researcher/view.php?person=us-hmi) at [IBM T.J. Watson Research Center](http://www.research.ibm.com/labs/watson/) in the summer of 2013 on machine translation.
 
@@ -34,25 +34,27 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 
 <img src="img/scrolldown.png" class="image-reposnsive center-block" style="max-width=30px;margin-bottom:30px;" id="scrolldown">
 
+<br/>
+
 #### Publications
 
 My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
 
-* Kai Zhao, Liang Huang, and Mingbo Ma. [Textual Entailment with Structured Attentions and Composition](#). To appear in _Proceedings of COLING 2016_. <span class="label label-info label-as-badge">deep learning</span>
+* Kai Zhao, Liang Huang, and Mingbo Ma. [Textual Entailment with Structured Attentions and Composition](#). To appear in _Proceedings of COLING 2016_. <span class="label label-info label-purple label-as-badge">textual entailment</span> <span class="label label-info label-as-badge">deep learning</span>
 
 * Feifei Zhai, Liang Huang, and Kai Zhao. [Search-aware Tuning for Hierarchical Phrase-based Decoding](http://aclweb.org/anthology/D/D15/D15-1149.pdf). In _Proceedings of EMNLP 2015_. <span class="label label-primary label-as-badge">machine translation</span>
 
-* Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://www.aclweb.org/anthology/N/N15/N15-1176.pdf). In _Proceedings of NAACL 2015_. <span class="label label-primary label-as-badge">machine translation</span>
+* Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://www.aclweb.org/anthology/N/N15/N15-1176.pdf). In _Proceedings of NAACL 2015_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
 
-* Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper, [slides](files/type-driven-semantic-parsing.pdf)). <span class="label label-success label-as-badge">semantic parsing</span> <span class="label label-warning label-as-badge">online learning</span>
+* Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper, [slides](files/type-driven-semantic-parsing.pdf)). <span class="label label-success label-as-badge">semantic parsing</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
-* Kai Zhao, Liang Huang, Haitao Mi, and Abe Ittycheriah. [Hierarchical MT Training using Max-Violation Perceptron](http://www.aclweb.org/anthology/P/P14/P14-2127.pdf). In _Proceedings of ACL 2014_ (short paper). <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">online learning</span>
+* Kai Zhao, Liang Huang, Haitao Mi, and Abe Ittycheriah. [Hierarchical MT Training using Max-Violation Perceptron](http://www.aclweb.org/anthology/P/P14/P14-2127.pdf). In _Proceedings of ACL 2014_ (short paper). <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
 * Kai Zhao, James Cross and Liang Huang. [Optimal Incremental Parsing via Best-First Dynamic Programming](http://aclweb.org/anthology/D/D13/D13-1071.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-success label-as-badge">syntactic parsing</span>
 
-* Heng Yu, Liang Huang, Haitao Mi, and Kai Zhao. [Max-Violation Perceptron and Forced Decoding for Scalable MT Training](http://aclweb.org/anthology/D/D13/D13-1112.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">online learning</span>
+* Heng Yu, Liang Huang, Haitao Mi, and Kai Zhao. [Max-Violation Perceptron and Forced Decoding for Scalable MT Training](http://aclweb.org/anthology/D/D13/D13-1112.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
-* Hao Zhang, Liang Huang, Kai Zhao, and Ryan McDonald. [Online Learning with Inexact Hypergraph Search](http://aclweb.org/anthology/D/D13/D13-1093.pdf). In _Proceedings of EMNLP 2013_ (short paper). <span class="label label-success label-as-badge">syntactic parsing</span> <span class="label label-warning label-as-badge">online learning</span>
+* Hao Zhang, Liang Huang, Kai Zhao, and Ryan McDonald. [Online Learning with Inexact Hypergraph Search](http://aclweb.org/anthology/D/D13/D13-1093.pdf). In _Proceedings of EMNLP 2013_ (short paper). <span class="label label-success label-as-badge">syntactic parsing</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
 * Yoav Goldberg, Kai Zhao and Liang Huang. [Efficient Implementation for Beam Search Incremental Parsers](http://www.aclweb.org/anthology/P/P13/P13-2111.pdf). In _Proceedings of ACL 2013_ (short paper). <span class="label label-success label-as-badge">syntactic parsing</span>
 
