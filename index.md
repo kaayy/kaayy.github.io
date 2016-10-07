@@ -3,6 +3,21 @@ layout: homepage
 title: Kai Zhao - Homepage
 ---
 
+{::options parse_block_html="true" /}
+<div class="vertical-center">
+<div class="row">
+
+<div class="col-xs-12 col-md-10 col-md-offset-1" style="margin-top:30px; margin-bottom:60px;">
+  <img src="img/kaizhao_photo.jpg" class="img-responsive img-circle center-block" style="max-width:120px">
+  <div class="text-center" markdown="0">
+    <h1> Kai Zhao </h1>
+    <p> kzhao.hf [at] gmail.com  </p>
+    <p> Ph.D. candidate <br />@EECS, Oregon State University </p>
+  </div>
+</div>
+
+
+
 #### Biography
 
 I am a Ph.D. candidate at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](kaizhao_cv.pdf)]
@@ -13,8 +28,11 @@ I have been very fortunate to work with [Hao Zhang](http://research.google.com/p
 
 Prior to Oregon State University, I started my Ph.D. study at [Computer Science Department](http://cs.gc.cuny.edu/), [Graduate Center](http://www.gc.cuny.edu/), [City University of New York](http://www.cuny.edu/index.html) (CUNY). I received my Bachelor of Engineering (B.Eng.) degree from [Computer Science Department](http://cs.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) (USTC) in 2010.
 
-<br />
+</div>
+</div>
 
+
+<img src="img/scrolldown.png" class="image-reposnsive center-block" style="max-width=30px">
 
 #### Publications
 
@@ -26,19 +44,19 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 * Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://www.aclweb.org/anthology/N/N15/N15-1176.pdf). In _Proceedings of NAACL 2015_. <span class="label label-primary label-as-badge">machine translation</span>
 
-* Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper, [slides](files/type-driven-semantic-parsing.pdf)). <span class="label label-success label-as-badge">semantic parsing</span>&nbsp;<span class="label label-warning label-as-badge">online learning</span>
+* Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper, [slides](files/type-driven-semantic-parsing.pdf)). <span class="label label-success label-as-badge">semantic parsing</span> <span class="label label-warning label-as-badge">online learning</span>
 
-* Kai Zhao, Liang Huang, Haitao Mi, and Abe Ittycheriah. [Hierarchical MT Training using Max-Violation Perceptron](http://www.aclweb.org/anthology/P/P14/P14-2127.pdf). In _Proceedings of ACL 2014_ (short paper). <span class="label label-primary label-as-badge">machine translation</span>&nbsp;<span class="label label-warning label-as-badge">online learning</span>
+* Kai Zhao, Liang Huang, Haitao Mi, and Abe Ittycheriah. [Hierarchical MT Training using Max-Violation Perceptron](http://www.aclweb.org/anthology/P/P14/P14-2127.pdf). In _Proceedings of ACL 2014_ (short paper). <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">online learning</span>
 
 * Kai Zhao, James Cross and Liang Huang. [Optimal Incremental Parsing via Best-First Dynamic Programming](http://aclweb.org/anthology/D/D13/D13-1071.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-success label-as-badge">syntactic parsing</span>
 
-* Heng Yu, Liang Huang, Haitao Mi, and Kai Zhao. [Max-Violation Perceptron and Forced Decoding for Scalable MT Training](http://aclweb.org/anthology/D/D13/D13-1112.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-primary label-as-badge">machine translation</span>&nbsp;<span class="label label-warning label-as-badge">online learning</span>
+* Heng Yu, Liang Huang, Haitao Mi, and Kai Zhao. [Max-Violation Perceptron and Forced Decoding for Scalable MT Training](http://aclweb.org/anthology/D/D13/D13-1112.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">online learning</span>
 
-* Hao Zhang, Liang Huang, Kai Zhao, and Ryan McDonald. [Online Learning with Inexact Hypergraph Search](http://aclweb.org/anthology/D/D13/D13-1093.pdf). In _Proceedings of EMNLP 2013_ (short paper). <span class="label label-success label-as-badge">syntactic parsing</span>&nbsp;<span class="label label-warning label-as-badge">online learning</span>
+* Hao Zhang, Liang Huang, Kai Zhao, and Ryan McDonald. [Online Learning with Inexact Hypergraph Search](http://aclweb.org/anthology/D/D13/D13-1093.pdf). In _Proceedings of EMNLP 2013_ (short paper). <span class="label label-success label-as-badge">syntactic parsing</span> <span class="label label-warning label-as-badge">online learning</span>
 
 * Yoav Goldberg, Kai Zhao and Liang Huang. [Efficient Implementation for Beam Search Incremental Parsers](http://www.aclweb.org/anthology/P/P13/P13-2111.pdf). In _Proceedings of ACL 2013_ (short paper). <span class="label label-success label-as-badge">syntactic parsing</span>
 
-* Kai Zhao and Liang Huang. [Minibatch and Parallelization for Online Large Margin Structured Learning](http://www.aclweb.org/anthology/N/N13/N13-1038.pdf). In _Proceedings of NAACL 2013_. <span class="label label-success label-as-badge">syntactic parsing</span>&nbsp;<span class="label label-warning label-as-badge">online learning</span>
+* Kai Zhao and Liang Huang. [Minibatch and Parallelization for Online Large Margin Structured Learning](http://www.aclweb.org/anthology/N/N13/N13-1038.pdf). In _Proceedings of NAACL 2013_. <span class="label label-success label-as-badge">syntactic parsing</span> <span class="label label-warning label-as-badge">online learning</span>
 
 
 We have a tutorial on [Structured Prediction with Perceptron](http://www.anthology.aclweb.org/P/P14/P14-6.pdf#page=14) presented in _ACL 2014_ ([slides](http://web.engr.oregonstate.edu/~huanlian/slides/perc-tutorial.pdf)), and _MASC-SLL 2015_ ([revised slides](files/perc-tutorial-masc.pdf)). 

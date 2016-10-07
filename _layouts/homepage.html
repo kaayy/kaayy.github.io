@@ -9,6 +9,51 @@
       a { color: #1980e6; }
       a:hover { color: #0f4d8a; }
       .label-as-badge { border-radius: 1em;}
+
+.vertical-center {
+  min-height: 94%;  /* Fallback for vh unit */
+  min-height: 94vh; /* You might also want to use
+                        'height' property instead.
+                        
+                        Note that for percentage values of
+                        'height' or 'min-height' properties,
+                        the 'height' of the parent element
+                        should be specified explicitly.
+  
+                        In this case the parent of '.vertical-center'
+                        is the <body> element */
+
+  /* Make it a flex container */
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  
+  /* Align the bootstrap's container vertically */
+    -webkit-box-align : center;
+  -webkit-align-items : center;
+       -moz-box-align : center;
+       -ms-flex-align : center;
+          align-items : center;
+  
+  /* In legacy web browsers such as Firefox 9
+     we need to specify the width of the flex container */
+  width: 100%;
+  margin-left: 15px;
+  
+  /* Also 'margin: 0 auto' doesn't have any effect on flex items in such web browsers
+     hence the bootstrap's container won't be aligned to the center anymore.
+  
+     Therefore, we should use the following declarations to get it centered again */
+         -webkit-box-pack : center;
+            -moz-box-pack : center;
+            -ms-flex-pack : center;
+  -webkit-justify-content : center;
+          justify-content : center;
+}
+
     </style>
     <script type="text/javascript">
       var _gaq = _gaq || [];
@@ -30,14 +75,6 @@
 
   <body>
 <div class="container">
-    <div class="col-xs-12 col-md-10 col-md-offset-1" style="margin-top:30px">
-        <img src="img/kaizhao_photo.jpg" class="img-responsive img-circle center-block" style="max-width:120px">
-    <div class="text-center">
-      <h1>Kai Zhao</h1>
-      <p> kzhao.hf [at] gmail.com  </p>
-      <p> Ph.D. candidate <br />@EECS, Oregon State University </p>
-    </div>
-  </div>
   <div class="col-xs-12 col-md-10 col-md-offset-1" style="margin-top:20px">
     {{ content }}
   </div>
