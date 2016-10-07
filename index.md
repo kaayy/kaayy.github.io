@@ -32,7 +32,7 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 </div>
 
 
-<img src="img/scrolldown.png" class="image-reposnsive center-block" style="max-width=30px">
+<img src="img/scrolldown.png" class="image-reposnsive center-block" style="max-width=30px;margin-bottom:30px;">
 
 #### Publications
 
