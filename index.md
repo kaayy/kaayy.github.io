@@ -40,7 +40,7 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 
 My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
 
-* Kai Zhao, Liang Huang, and Mingbo Ma. [Textual Entailment with Structured Attentions and Composition](#). To appear in _Proceedings of COLING 2016_. <span class="label label-info label-purple label-as-badge">textual entailment</span> <span class="label label-info label-as-badge">deep learning</span>
+* Kai Zhao, Liang Huang, and Mingbo Ma. [Textual Entailment with Structured Attentions and Composition](files/structured-attention.pdf). To appear in _Proceedings of COLING 2016_. ([code](https://github.com/kaayy/structured-attention))<span class="label label-info label-purple label-as-badge">textual entailment</span> <span class="label label-info label-as-badge">deep learning</span>
 
 * Feifei Zhai, Liang Huang, and Kai Zhao. [Search-aware Tuning for Hierarchical Phrase-based Decoding](http://aclweb.org/anthology/D/D15/D15-1149.pdf). In _Proceedings of EMNLP 2015_. <span class="label label-primary label-as-badge">machine translation</span>
 
