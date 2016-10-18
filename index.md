@@ -65,6 +65,18 @@ We have a tutorial on [Structured Prediction with Perceptron](http://www.antholo
 
 <br />
 
+#### Softwares
+
+As I am going to graduate soon, I am cleaning up and releasing my old codes for some of the papers listed above. I usually write in Python, sometimes in C/C++ for efficiency reasons. My experience with C# at Microsoft is fascinating. (LINQ and parallelization are my favorites.) I am looking forword to seeing it become more popular. For deep learning I mostly write in Lua with Torch.
+
+* [Textual Entailment with Structured Attentions and Composition](https://github.com/kaayy/structured-attention)
+
+* Type-driven Incremental Semantic Parser: to be ready soon.
+
+* Optimal Incremental Dependency Parser with Best-First Dynamic Programming: to be ready soon.
+
+<br/>
+
 #### Teaching
 
 Teaching Assistant
