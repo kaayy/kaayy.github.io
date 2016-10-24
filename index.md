@@ -67,8 +67,7 @@ We have a tutorial on [Structured Prediction with Perceptron](http://www.antholo
 
 #### Softwares
 
-As I am going to graduate soon, I am cleaning up and releasing my old codes for some of the papers listed above. Hopefully these can help people doing related researches. 
-I usually write in Python, sometimes in C/C++ for efficiency reasons. My experience with C# at Microsoft is fascinating. (LINQ and parallelization are my favorites.) I am looking forword to seeing it become more popular. For deep learning I mostly write in Lua with Torch.
+As I am going to graduate soon, I am cleaning up and releasing my old codes for some of the papers listed above. Hopefully these can help people doing related researches. I usually write in Python, sometimes in C/C++ for efficiency reasons. My experience with C# at Microsoft is fascinating. (LINQ and parallelization are my favorites.) I am looking forword to seeing it become more popular. For deep learning I mostly write in Lua with Torch.
 
 * [Textual Entailment with Structured Attentions and Composition](https://github.com/kaayy/structured-attention)
 
