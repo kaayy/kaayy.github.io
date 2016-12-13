@@ -71,7 +71,7 @@ As I am going to graduate soon, I am cleaning up and releasing my old codes for 
 
 * [Textual Entailment with Structured Attentions and Composition](https://github.com/kaayy/structured-attention)
 
-* [Type-driven Incremental Semantic Parser](https://github.com/kaayy/TISP).
+* [Type-driven Incremental Semantic Parser](https://github.com/kaayy/TISP)
 
 * Optimal Incremental Dependency Parser with Best-First Dynamic Programming: to be ready soon.
 
