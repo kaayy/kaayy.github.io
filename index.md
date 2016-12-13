@@ -46,7 +46,7 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 * Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://www.aclweb.org/anthology/N/N15/N15-1176.pdf). In _Proceedings of NAACL 2015_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
 
-* Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper, [slides](files/type-driven-semantic-parsing.pdf)). <span class="label label-success label-as-badge">semantic parsing</span> <span class="label label-warning label-as-badge">structured prediction</span>
+* Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper, [code](https://github.com/kaayy/TISP), [slides](files/type-driven-semantic-parsing.pdf)). <span class="label label-success label-as-badge">semantic parsing</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
 * Kai Zhao, Liang Huang, Haitao Mi, and Abe Ittycheriah. [Hierarchical MT Training using Max-Violation Perceptron](http://www.aclweb.org/anthology/P/P14/P14-2127.pdf). In _Proceedings of ACL 2014_ (short paper). <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
@@ -71,7 +71,7 @@ As I am going to graduate soon, I am cleaning up and releasing my old codes for 
 
 * [Textual Entailment with Structured Attentions and Composition](https://github.com/kaayy/structured-attention)
 
-* Type-driven Incremental Semantic Parser: to be ready soon.
+* [Type-driven Incremental Semantic Parser](https://github.com/kaayy/TISP).
 
 * Optimal Incremental Dependency Parser with Best-First Dynamic Programming: to be ready soon.
 
