@@ -48,7 +48,7 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 * Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper, [code](https://github.com/kaayy/TISP), [slides](files/type-driven-semantic-parsing.pdf)). <span class="label label-success label-as-badge">semantic parsing</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
-* Kai Zhao, Liang Huang, Haitao Mi, and Abe Ittycheriah. [Hierarchical MT Training using Max-Violation Perceptron](http://www.aclweb.org/anthology/P/P14/P14-2127.pdf). In _Proceedings of ACL 2014_ (short paper). <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">structured prediction</span>
+* Kai Zhao, Liang Huang, Haitao Mi, and Abe Ittycheriah. [Hierarchical MT Training using Max-Violation Perceptron](http://www.aclweb.org/anthology/P/P14/P14-2127.pdf). In _Proceedings of ACL 2014_ (short paper, [slides](files/hiero-maxforce_slides.pdf)). <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
 * Kai Zhao, James Cross and Liang Huang. [Optimal Incremental Parsing via Best-First Dynamic Programming](http://aclweb.org/anthology/D/D13/D13-1071.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-success label-as-badge">syntactic parsing</span>
 
