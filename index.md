@@ -44,7 +44,7 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 * Feifei Zhai, Liang Huang, and Kai Zhao. [Search-aware Tuning for Hierarchical Phrase-based Decoding](http://aclweb.org/anthology/D/D15/D15-1149.pdf). In _Proceedings of EMNLP 2015_. <span class="label label-primary label-as-badge">machine translation</span>
 
-* Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://www.aclweb.org/anthology/N/N15/N15-1176.pdf). In _Proceedings of NAACL 2015_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
+* Kai Zhao, Hany Hassan, and Michael Auli. [Learning Translation Models from Monolingual Continuous Representations](http://www.aclweb.org/anthology/N/N15/N15-1176.pdf). In _Proceedings of NAACL 2015_ ([slides](files/continuoustm_slides.pdf)). <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
 
 * Kai Zhao and Liang Huang. [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf). In _Proceedings of NAACL 2015_ (short paper, [code](https://github.com/kaayy/TISP), [slides](files/type-driven-semantic-parsing.pdf)). <span class="label label-success label-as-badge">semantic parsing</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
