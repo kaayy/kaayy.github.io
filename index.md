@@ -8,12 +8,12 @@ title: Kai Zhao - Homepage
 <div class="row">
 
 <div class="col-xs-12 col-md-10 col-md-offset-1" style="margin-top:30px; margin-bottom:60px;">
-  <img src="img/kaizhao_photo.jpg" class="img-responsive img-circle center-block" style="max-width:120px">
-  <div class="text-center" markdown="0">
-    <h1> Kai Zhao </h1>
-    <p> kzhao.hf [at] gmail.com  </p>
-    <p> Ph.D. candidate <br />@EECS, Oregon State University </p>
-  </div>
+<img src="img/kaizhao_photo.jpg" class="img-responsive img-circle center-block" style="max-width:120px">
+<div class="text-center" markdown="0">
+<h1> Kai Zhao </h1>
+<p> kzhao.hf [at] gmail.com  </p>
+<p> Ph.D. candidate <br />@EECS, Oregon State University </p>
+</div>
 </div>
 
 
