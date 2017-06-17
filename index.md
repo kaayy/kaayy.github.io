@@ -12,7 +12,7 @@ title: Kai Zhao - Homepage
 <div class="text-center" markdown="0">
 <h1> Kai Zhao </h1>
 <p> kzhao.hf [at] gmail.com  </p>
-<p> Ph.D. candidate <br />@EECS, Oregon State University </p>
+<p> Ph.D. <br />@EECS, Oregon State University </p>
 </div>
 </div>
 
@@ -20,7 +20,7 @@ title: Kai Zhao - Homepage
 
 #### Biography
 
-I am a Ph.D. candidate at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](kaizhao_cv.pdf)]
+I graduated with a Ph.D. degree at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](kaizhao_cv.pdf)]
 
 Now I work with [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) in Algorithms for Computational Linguistics (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **syntactic/semantic parsing**, **machine translation**, and **textual entailment**. I am also very interested in Machine Learning like **online learning** and **deep learning**.
 
