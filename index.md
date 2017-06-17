@@ -20,9 +20,9 @@ title: Kai Zhao - Homepage
 
 #### Biography
 
-I graduated with a Ph.D. degree at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](kaizhao_cv.pdf)]
+I just recived my Ph.D. degree at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](kaizhao_cv.pdf)]
 
-Now I work with [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) in Algorithms for Computational Linguistics (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **syntactic/semantic parsing**, **machine translation**, and **textual entailment**. I am also very interested in Machine Learning like **online learning** and **deep learning**.
+I worked with [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) in Algorithms for Computational Linguistics (ACL) Group. My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **syntactic/semantic parsing**, **machine translation**, and **textual entailment**. I am also very interested in Machine Learning like **online learning** and **deep learning**.
 
 I have been very fortunate to work with [Hao Zhang](http://research.google.com/pubs/HaoZhang.html), [Cong Yu](https://sites.google.com/site/congyu/home), and [Flip Korn](https://www.linkedin.com/in/flip-korn-a35159) at [Google Research](https://research.google.com/) on data mining from structured data in the summer of 2015, with [Hany Hassan](http://research.microsoft.com/en-us/people/hanyh/) and [Michael Auli](http://michaelauli.github.io/) at [Microsoft Research](http://research.microsoft.com/en-us/) in the summer of 2014, and with [Abe Ittycheriah](https://www.linkedin.com/pub/abe-ittycheriah/1/142/466) and [Haitao Mi](http://researcher.watson.ibm.com/researcher/view.php?person=us-hmi) at [IBM T.J. Watson Research Center](http://www.research.ibm.com/labs/watson/) in the summer of 2013 on machine translation.
 
