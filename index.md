@@ -12,7 +12,7 @@ title: Kai Zhao - Homepage
 <div class="text-center" markdown="0">
 <h1> Kai Zhao </h1>
 <p> kzhao.hf [at] gmail.com  </p>
-<p> Ph.D. <br />@EECS, Oregon State University </p>
+<p> Research Scientist <br />@Google Inc. </p>
 </div>
 </div>
 
@@ -20,7 +20,9 @@ title: Kai Zhao - Homepage
 
 #### Biography
 
-I just received my Ph.D. degree from [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu). [[Curriculum Vitae](kaizhao_cv.pdf)]
+I recently joined Google as a research scientist. [[Curriculum Vitae](kaizhao_cv.pdf)]
+
+I received my Ph.D. degree from [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu).
 
 My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **syntactic/semantic parsing**, **machine translation**, and **textual entailment**. I am also very interested in Machine Learning like **online learning** and **deep learning**. My advisor is [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/).
 
