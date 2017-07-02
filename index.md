@@ -85,18 +85,6 @@ As I am going to graduate soon, I am cleaning up and releasing my old codes for 
 
 <br/>
 
-#### Teaching
-
-Teaching Assistant
-
-* [Translators (Compilers and Interpreters)](http://classes.engr.oregonstate.edu/eecs/winter2016/cs480/), Oregon State University, Winter 2016
-* [Theory of Computation](http://classes.engr.oregonstate.edu/eecs/fall2015/cs321/), Oregon State University, Fall 2015
-* [Programming Languages](http://web.engr.oregonstate.edu/~huanlian/teaching/PL/2013fall/), Graduate Center, CUNY, Fall 2013
-* [Machine Learning](http://web.engr.oregonstate.edu/~huanlian/teaching/machine-learning/), Graduate Center, CUNY, Spring 2013
-* [Python Programming and Text Processing](http://web.engr.oregonstate.edu/~huanlian/teaching/python-2012f/), Queens College, CUNY, Fall 2012
-
-<br />
-
 #### Codes for Fun
 
 * [Dependency Tree Viewer](deptreeviewer): a tool to visualize (unlabeled) dependency trees with JavaScript. It supports nested brackets format, CONLL-X format, and Stanford format. (For syntax tree there is [a great viewer](http://mshang.ca/syntree/) from [Miles Shang](http://mshang.ca/).)
