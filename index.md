@@ -42,7 +42,7 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 
 My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
 
-* Kai Zhao, Dapeng Li and Liang Huang. [Joint Syntactic and Discourse Parsing with Recurrent Neural Models](#). To appear in _Proceedings of EMNLP 2017_ (short paper). <span class="label label-success label-as-badge">parsing</span> <span class="label label-info label-as-badge">deep learning</span>
+* Kai Zhao and Liang Huang. [Joint Syntactic and Discourse Parsing with Recurrent Neural Models](#). To appear in _Proceedings of EMNLP 2017_ (short paper). <span class="label label-success label-as-badge">parsing</span> <span class="label label-info label-as-badge">deep learning</span>
 
 * Liang Huang, Kai Zhao and Mingbo Ma. [When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)](#). To appear in _Proceedings of EMNLP 2017_ (short paper). <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
 
