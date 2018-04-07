@@ -44,7 +44,7 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 * Kai Zhao and Liang Huang. [Joint Syntacto-Discourse Parsing and the Syntacto-Discourse Treebank](http://aclweb.org/anthology/D/D17/D17-1225.pdf). In _Proceedings of EMNLP 2017_ ([arXiv](https://arxiv.org/abs/1708.08484), [code](https://github.com/kaayy/josydipa)). <span class="label label-success label-as-badge">parsing</span> <span class="label label-info label-as-badge">deep learning</span>
 
-* Liang Huang, Kai Zhao and Mingbo Ma. [When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)](http://aclweb.org/anthology/D/D17/D17-1226.pdf). In _Proceedings of EMNLP 2017_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
+* Liang Huang, Kai Zhao and Mingbo Ma. [When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)](http://aclweb.org/anthology/D/D17/D17-1227.pdf). In _Proceedings of EMNLP 2017_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
 
 * Mingbo Ma, Kai Zhao, Liang Huang, Bing Xiang and Bowen Zhou, [Jointly Trained Sequential Labeling and Classification by Sparse Attention Neural Networks](http://www.isca-speech.org/archive/Interspeech_2017/pdfs/1321.PDF). In _Proceedings of Interspeech 2017_ ([arXiv](https://arxiv.org/abs/1709.10191)). <span class="label label-info label-as-badge">deep learning</span>
 
