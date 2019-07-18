@@ -2,6 +2,9 @@
 <html>
   <head>
     <title>{{ page.title }}</title>
+    {% if page.summary %}
+      <meta name="description" content="{{ page.summary }}">
+    {% endif %}
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <style>
       body { color: #4A4A4A; }

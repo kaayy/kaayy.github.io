@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: Kai Zhao - Homepage
+summary: Research Scientist @ Google, working on NLP, esp., semantic/syntactic parsing, machine translation.
 ---
 
 {::options parse_block_html="true" /}
