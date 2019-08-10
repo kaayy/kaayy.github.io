@@ -43,6 +43,8 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 
 My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
 
+* Liang Huang, He Zhang, Dezhong Deng, Kai Zhao, Kaibo Liu, David Hendrix, David Mathews. [LinearFold: linear-time approximate RNA folding by 5’-to-3’ dynamic programming and beam search](https://academic.oup.com/bioinformatics/article-pdf/35/14/i295/29098742/btz375.pdf). In _Proceedings of ISMB 2019_. <span class="label label-success label-as-badge">parsing</span>
+
 * Kai Zhao and Liang Huang. [Joint Syntacto-Discourse Parsing and the Syntacto-Discourse Treebank](http://aclweb.org/anthology/D/D17/D17-1225.pdf). In _Proceedings of EMNLP 2017_ ([arXiv](https://arxiv.org/abs/1708.08484), [code](https://github.com/kaayy/josydipa)). <span class="label label-success label-as-badge">parsing</span> <span class="label label-info label-as-badge">deep learning</span>
 
 * Liang Huang, Kai Zhao and Mingbo Ma. [When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)](http://aclweb.org/anthology/D/D17/D17-1227.pdf). In _Proceedings of EMNLP 2017_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
