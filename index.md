@@ -43,13 +43,13 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 
 My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
 
-* Liang Huang, He Zhang, Dezhong Deng, Kai Zhao, Kaibo Liu, David Hendrix, David Mathews. [LinearFold: linear-time approximate RNA folding by 5’-to-3’ dynamic programming and beam search](https://academic.oup.com/bioinformatics/article-pdf/35/14/i295/29098742/btz375.pdf). In _Proceedings of ISMB 2019_. <span class="label label-success label-as-badge">parsing</span>
+* Liang Huang, He Zhang, Dezhong Deng, Kai Zhao, Kaibo Liu, David Hendrix, and David Mathews. [LinearFold: linear-time approximate RNA folding by 5’-to-3’ dynamic programming and beam search](https://academic.oup.com/bioinformatics/article-pdf/35/14/i295/29098742/btz375.pdf). In _Proceedings of ISMB 2019_. <span class="label label-success label-as-badge">parsing</span>
 
 * Kai Zhao and Liang Huang. [Joint Syntacto-Discourse Parsing and the Syntacto-Discourse Treebank](http://aclweb.org/anthology/D/D17/D17-1225.pdf). In _Proceedings of EMNLP 2017_ ([arXiv](https://arxiv.org/abs/1708.08484), [code](https://github.com/kaayy/josydipa)). <span class="label label-success label-as-badge">parsing</span> <span class="label label-info label-as-badge">deep learning</span>
 
-* Liang Huang, Kai Zhao and Mingbo Ma. [When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)](http://aclweb.org/anthology/D/D17/D17-1227.pdf). In _Proceedings of EMNLP 2017_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
+* Liang Huang, Kai Zhao, and Mingbo Ma. [When to Finish? Optimal Beam Search for Neural Text Generation (modulo beam size)](http://aclweb.org/anthology/D/D17/D17-1227.pdf). In _Proceedings of EMNLP 2017_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-info label-as-badge">deep learning</span>
 
-* Mingbo Ma, Kai Zhao, Liang Huang, Bing Xiang and Bowen Zhou, [Jointly Trained Sequential Labeling and Classification by Sparse Attention Neural Networks](http://www.isca-speech.org/archive/Interspeech_2017/pdfs/1321.PDF). In _Proceedings of Interspeech 2017_ ([arXiv](https://arxiv.org/abs/1709.10191)). <span class="label label-info label-as-badge">deep learning</span>
+* Mingbo Ma, Kai Zhao, Liang Huang, Bing Xiang, and Bowen Zhou, [Jointly Trained Sequential Labeling and Classification by Sparse Attention Neural Networks](http://www.isca-speech.org/archive/Interspeech_2017/pdfs/1321.PDF). In _Proceedings of Interspeech 2017_ ([arXiv](https://arxiv.org/abs/1709.10191)). <span class="label label-info label-as-badge">deep learning</span>
 
 * Kai Zhao, Liang Huang, and Mingbo Ma. [Textual Entailment with Structured Attentions and Composition](http://aclweb.org/anthology/C16-1212). In _Proceedings of COLING 2016_ ([arXiv](https://arxiv.org/abs/1701.01126), [code](https://github.com/kaayy/structured-attention), [slides](files/structuredatt_slides.pdf)). <span class="label label-info label-purple label-as-badge">textual entailment</span> <span class="label label-info label-as-badge">deep learning</span>
 
@@ -61,13 +61,13 @@ My publication list is also available at [Google Scholar](http://scholar.google.
 
 * Kai Zhao, Liang Huang, Haitao Mi, and Abe Ittycheriah. [Hierarchical MT Training using Max-Violation Perceptron](http://www.aclweb.org/anthology/P/P14/P14-2127.pdf). In _Proceedings of ACL 2014_ ([slides](files/hiero-maxforce_slides.pdf)). <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
-* Kai Zhao, James Cross and Liang Huang. [Optimal Incremental Parsing via Best-First Dynamic Programming](http://aclweb.org/anthology/D/D13/D13-1071.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-success label-as-badge">syntactic parsing</span>
+* Kai Zhao, James Cross, and Liang Huang. [Optimal Incremental Parsing via Best-First Dynamic Programming](http://aclweb.org/anthology/D/D13/D13-1071.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-success label-as-badge">syntactic parsing</span>
 
 * Heng Yu, Liang Huang, Haitao Mi, and Kai Zhao. [Max-Violation Perceptron and Forced Decoding for Scalable MT Training](http://aclweb.org/anthology/D/D13/D13-1112.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-primary label-as-badge">machine translation</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
 * Hao Zhang, Liang Huang, Kai Zhao, and Ryan McDonald. [Online Learning with Inexact Hypergraph Search](http://aclweb.org/anthology/D/D13/D13-1093.pdf). In _Proceedings of EMNLP 2013_. <span class="label label-success label-as-badge">syntactic parsing</span> <span class="label label-warning label-as-badge">structured prediction</span>
 
-* Yoav Goldberg, Kai Zhao and Liang Huang. [Efficient Implementation for Beam Search Incremental Parsers](http://www.aclweb.org/anthology/P/P13/P13-2111.pdf). In _Proceedings of ACL 2013_. <span class="label label-success label-as-badge">syntactic parsing</span>
+* Yoav Goldberg, Kai Zhao, and Liang Huang. [Efficient Implementation for Beam Search Incremental Parsers](http://www.aclweb.org/anthology/P/P13/P13-2111.pdf). In _Proceedings of ACL 2013_. <span class="label label-success label-as-badge">syntactic parsing</span>
 
 * Kai Zhao and Liang Huang. [Minibatch and Parallelization for Online Large Margin Structured Learning](http://www.aclweb.org/anthology/N/N13/N13-1038.pdf). In _Proceedings of NAACL 2013_. <span class="label label-success label-as-badge">syntactic parsing</span> <span class="label label-warning label-as-badge">online learning</span>
 
