@@ -21,7 +21,7 @@ summary: Research Scientist @ Google, working on NLP, esp., semantic/syntactic p
 
 #### Biography
 
-I recently joined Google as a research scientist. [[Curriculum Vitae](kaizhao_cv.pdf)]
+I recently joined Google as a research scientist. 
 
 I received my Ph.D. degree from [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu).
 
