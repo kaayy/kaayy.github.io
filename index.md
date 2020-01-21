@@ -27,8 +27,6 @@ I received my Ph.D. degree from [School of Electrical Engineering and Computer S
 
 My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **syntactic/semantic parsing**, **machine translation**, and **textual entailment**. I am also very interested in Machine Learning like **online learning** and **deep learning**. My advisor is [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/).
 
-I have been very fortunate to work with [Hao Zhang](http://research.google.com/pubs/HaoZhang.html), [Cong Yu](https://sites.google.com/site/congyu/home), and [Flip Korn](https://www.linkedin.com/in/flip-korn-a35159) at [Google Research](https://research.google.com/) for internship on data mining from structured data in the summer of 2015, with [Hany Hassan](http://research.microsoft.com/en-us/people/hanyh/) and [Michael Auli](http://michaelauli.github.io/) at [Microsoft Research](http://research.microsoft.com/en-us/) in the summer of 2014, and with [Abe Ittycheriah](https://www.linkedin.com/pub/abe-ittycheriah/1/142/466) and [Haitao Mi](http://researcher.watson.ibm.com/researcher/view.php?person=us-hmi) at [IBM T.J. Watson Research Center](http://www.research.ibm.com/labs/watson/) in the summer of 2013 on machine translation.
-
 Prior to Oregon State University, I started my Ph.D. study at [Computer Science Department](http://cs.gc.cuny.edu/), [Graduate Center](http://www.gc.cuny.edu/), [City University of New York](http://www.cuny.edu/index.html) (CUNY). I received my Bachelor of Engineering (B.Eng.) degree from [Computer Science Department](http://cs.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) (USTC) in 2010.
 
 </div>
