@@ -32,9 +32,6 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 </div>
 </div>
 
-
-<img src="img/scrolldown.png" class="image-reposnsive center-block" style="max-width=30px;margin-bottom:30px;" id="scrolldown">
-
 <br/>
 
 #### Publications
