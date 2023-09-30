@@ -17,8 +17,6 @@ summary: Research Scientist @ Google, working on NLP, esp., semantic/syntactic p
 </div>
 </div>
 
-
-
 #### Biography
 
 I currently work at Google as a research scientist.
@@ -31,8 +29,6 @@ Prior to Oregon State University, I started my Ph.D. study at [Computer Science 
 
 </div>
 </div>
-
-<br/>
 
 #### Publications
 
