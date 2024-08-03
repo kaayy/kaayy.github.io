@@ -5,7 +5,7 @@ summary: Research Scientist @ Google, working on NLP, esp., semantic/syntactic p
 ---
 
 {::options parse_block_html="true" /}
-<div class="vertical-center" id="myhead">
+<div class="vertical-center">
 <div class="row">
 
 <div class="col-xs-12 col-md-10 col-md-offset-1" style="margin-top:30px; margin-bottom:60px;">
