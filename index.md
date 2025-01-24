@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Kai Zhao - Homepage
-summary: Research Scientist @ Google, working on NLP, esp., semantic/syntactic parsing, machine translation.
+summary: Research Scientist @ Google DeepMind, working on NLP, esp., semantic/syntactic parsing, machine translation.
 ---
 
 {::options parse_block_html="true" /}
@@ -13,13 +13,12 @@ summary: Research Scientist @ Google, working on NLP, esp., semantic/syntactic p
 <div class="text-center" markdown="0">
 <h1> Kai Zhao </h1>
 <p> kzhao.hf [at] gmail.com  </p>
-<p> Research Scientist <br />@Google Inc. </p>
 </div>
 </div>
 
 #### Biography
 
-I currently work at Google as a research scientist.
+I currently work at Google DeepMind as a research scientist.
 
 I received my Ph.D. degree from [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu).
 
