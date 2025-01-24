@@ -6,7 +6,6 @@ summary: Research Scientist @ Google DeepMind, working on NLP, LLM.
 
 {::options parse_block_html="true" /}
 <div class="vertical-center">
-<div class="row">
 
 <div class="col-xs-12 col-md-10 col-md-offset-1" style="margin-top:30px; margin-bottom:30px;">
 <img src="img/kaizhao_photo.jpg" class="img-responsive img-circle center-block" style="max-width:120px">
@@ -26,7 +25,6 @@ My research is focused on algorithms and theory in Natural Language Processing (
 
 Prior to Oregon State University, I started my Ph.D. study at [Computer Science Department](http://cs.gc.cuny.edu/), [Graduate Center](http://www.gc.cuny.edu/), [City University of New York](http://www.cuny.edu/index.html) (CUNY). I received my Bachelor of Engineering (B.Eng.) degree from [Computer Science Department](http://cs.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) (USTC) in 2010.
 
-</div>
 </div>
 
 #### Publications
