@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Kai Zhao - Homepage
-summary: Research Scientist @ Google DeepMind, working on NLP, esp., semantic/syntactic parsing, machine translation.
+summary: Research Scientist @ Google DeepMind, working on NLP, LLM. 
 ---
 
 {::options parse_block_html="true" /}
