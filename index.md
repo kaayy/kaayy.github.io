@@ -16,16 +16,13 @@ summary: Research Scientist @ Google DeepMind, working on NLP, LLM.
 </div>
 </div>
 
-#### Biography
+#### About
 
-I currently work at Google DeepMind as a research scientist.
+I currently work at Google DeepMind as a research scientist, focusing on [Gemini Deep Research](https://gemini.google/overview/deep-research/).
 
-I received my Ph.D. degree from [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu).
+Previouosly, I worked on Gemini tool use in the Gemini Extensions team, and neural semantic parsing in the Google Assistant team.
 
-My research is focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including **syntactic/semantic parsing**, **machine translation**, and **textual entailment**. My advisor is [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/).
-
-Prior to Oregon State University, I started my Ph.D. study at [Computer Science Department](http://cs.gc.cuny.edu/), [Graduate Center](http://www.gc.cuny.edu/), [City University of New York](http://www.cuny.edu/index.html) (CUNY). I received my Bachelor of Engineering (B.Eng.) degree from [Computer Science Department](http://cs.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) (USTC).
-
+I did my Ph.D. at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu), where my research focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including syntactic/semantic parsing, machine translation, and textual entailment. My advisor is [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/). Before that, I received my Bachelor of Engineering (B.Eng.) degree from [Computer Science Department](http://cs.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) (USTC).
 </div>
 </div>
 
