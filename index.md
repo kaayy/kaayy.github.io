@@ -16,7 +16,7 @@ summary: Research Scientist @ Google DeepMind, working on NLP, LLM.
 </div>
 </div>
 
-#### About
+#### Biography
 
 I currently work at Google DeepMind as a research scientist, focusing on [Gemini Deep Research](https://gemini.google/overview/deep-research/).
 
