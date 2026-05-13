@@ -5,7 +5,7 @@ summary: Research Scientist @ Google DeepMind, working on NLP, LLM.
 ---
 
 {::options parse_block_html="true" /}
-<div class="vertical-center">
+<div id="myhead" class="vertical-center" style="position: relative;">
 <div class="row">
 
 <div class="col-xs-12 col-md-10 col-md-offset-1" style="margin-top:30px; margin-bottom:30px;">
@@ -23,9 +23,20 @@ I currently work at Google DeepMind as a research scientist, focusing on [Gemini
 Previouosly, I worked on Gemini tool use in the Gemini Extensions team, and neural semantic parsing in the Google Assistant team.
 
 I did my Ph.D. at [School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/), [Oregon State University](http://www.oregonstate.edu), where my research focused on algorithms and theory in Natural Language Processing (NLP), especially in structured prediction problems including syntactic/semantic parsing, machine translation, and textual entailment. My advisor is [Prof. Liang Huang](http://web.engr.oregonstate.edu/~huanlian/). Before that, I received my Bachelor of Engineering (B.Eng.) degree from [Computer Science Department](http://cs.ustc.edu.cn/), [University of Science and Technology of China](http://www.ustc.edu.cn/) (USTC).
+
+<br />
+</div>
+
+<div id="scrolldown" class="text-center" style="position: absolute; bottom: 20px; width: 100%; left: 0;">
+  <a href="#publications" style="text-decoration: none;">
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#999" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M6 9l6 6 6-6"/>
+    </svg>
+  </a>
 </div>
 </div>
 
+<a name="publications"></a>
 #### Publications
 
 My publication list is also available at [Google Scholar](http://scholar.google.com/citations?user=5CCzY6MAAAAJ&hl=en).
